@@ -5,3 +5,4 @@ Test git v2 (lorem ipsum)(open) + (nano form)
 echo type
 Зміна 1
 Зміна 2
+Hello world 
